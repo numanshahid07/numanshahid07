@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Numan Shahid</h1>
 <h3 align="center">Machine Learning & Deep Learning Enthusiast | CSE Student</h3>
 
@@ -46,27 +45,6 @@
 
 ---
 
-## 💡 Projects
-
-- 🔹 Machine Learning Mini Projects  
-- 🔹 Data Analysis using Python  
-- 🔹 Academic & Practice Projects (C, Java, Python)
-
-> *(More projects coming soon 🚀)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p> 
-
----
 
 ⭐ **Feel free to explore my repositories and connect with me!**
 <!--
